@@ -8,8 +8,8 @@ const app = express();
 app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
-const OFFICIAL_EMAIL = "your_email@chitkara.edu.in";
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const OFFICIAL_EMAIL = "simble1498.be23@chitkarauniversity.edu.in";
+const GEMINI_API_KEY = AIzaSyBEoj6ez4uT6J1QuG5NQ8bKUpCZ3X3IWxQ;
 
 
 function fibonacci(n) {
