@@ -9,7 +9,7 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
 const OFFICIAL_EMAIL = "simble1498.be23@chitkarauniversity.edu.in";
-const GEMINI_API_KEY = AIzaSyBEoj6ez4uT6J1QuG5NQ8bKUpCZ3X3IWxQ;
+const GEMINI_API_KEY = "AIzaSyBEoj6ez4uT6J1QuG5NQ8bKUpCZ3X3IWxQ";
 
 
 function fibonacci(n) {
